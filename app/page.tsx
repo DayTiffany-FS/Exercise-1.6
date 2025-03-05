@@ -12,16 +12,17 @@ export default function Home() {
           height={38}
           priority
         />
-        <ol className="list-inside list-decimal text-sm text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
-          <li className="mb-2">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-semibold">
-              app/page.tsx
-            </code>
-            .
-          </li>
-          <li>Save and see your changes instantly.</li>
-        </ol>
+        <p className="changedContent">I'm not burning out, won't fade away</p>
+        <p className="changedContent">  Time to shine brighter</p>
+        <p className="changedContent"> I've always been a fighter</p>
+        <p className="changedContent"> On our way down, give me a wave</p>
+        <p className="changedContent"> Know the fall is bitter</p>
+        <p className="changedContent"> You've always been a quitter</p>
+        <p className="changedContent"> I'm at the top of my game</p>
+        <p className="changedContent"> You spit out more of the same</p>
+        <p className="changedContent"> Quit blaming, I'm sick of all the complaining</p>
+        <p className="changedContent"> I'll work 'till I'm in the dirt</p>
+        <p className="changedContent">You lazy bums are the worst</p>
 
         <div className="flex gap-4 items-center flex-col sm:flex-row">
           <a
